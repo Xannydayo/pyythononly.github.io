@@ -187,25 +187,5 @@ while True:  # Loop untuk mengulangi keseluruhan proses transaksi
     print('')
     print('')
     print('')
-        
-
     
-    
-        
-    
-    
-        # df_pesanan = pd.DataFrame(
-    #     {
-    #         "Subtotal ": [total_pembelian],
-    #         "Potongan": [diskon],
-    #         "Total": [total_pembelian - diskon],
-    #     }
-    # )
-    # # struk akhir
-    # print("")
-    # print("              TOKO ACIRO         ")
-    # print("    JL. PANJANG NO. 1 CIPULIR, KEB. LAMA ")
-    # print("         NPWP : 01.780.859.3-013.000 ")
-    # print("date : ", tanggal_sekarang)
-    # print(tabulate(df_pesanan, headers="keys", tablefmt="psql", showindex=False))
 
